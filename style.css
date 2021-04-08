@@ -1,0 +1,28 @@
+body{
+    background-image: url('imfive.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    text-align: center;
+    height:8em;
+    color: darkgrey;
+}
+.links{
+    display: inline;
+    justify-content: space-between;
+    text-decoration: none;
+    margin-right: 20px;
+}
+a:hover{
+    color:darkgrey;
+}
+#logo{
+    font-size: 50px;
+}
+.second{
+    text-align: center;
+}
+#right{
+    font-size: 70px;
+}
